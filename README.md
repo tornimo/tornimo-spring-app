@@ -2,11 +2,13 @@
 An example application using Spring framework, that sends metrics to [Tornimo.io](https://tornimo.io).  
 It uses our [tornimo-spring-reporter](https://github.com/tornimo/tornimo-spring-reporter) for sending metrics.
 
-## How to run it 
-1) If you haven't done so, signup for a free account at [tornimo.io](https://tornimo.io/start-free-trial/)
+## Prerequisites
+1) If you haven't done so, signup for a free trial account at [tornimo.io](https://tornimo.io/start-free-trial/)
 2) After a few minutes, you will receive a link to your dashboard, url for data ingestion and a token. 
-Fill configuration in application.properties as in configuration step.
-3) Run this application.
+
+## Running 
+1) Fill configuration in application.properties as shown in the configuration step.
+2) Run application.
 
 ## Configuration
 ``` 
