@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.tornimo</groupId>
-    <artifactId>spring-demo-app</artifactId>
+    <artifactId>tornimo-spring-app</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>demo</name>
     <description>Demo project for Spring Boot</description>
