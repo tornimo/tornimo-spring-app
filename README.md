@@ -1,4 +1,4 @@
-# tornimo-demo-spring-app
+# tornimo-spring-app
 An example application using Spring framework, that sends metrics to [Tornimo.io](https://tornimo.io).  
 It uses our [tornimo-spring-reporter](https://github.com/tornimo/tornimo-spring-reporter) for sending metrics.
 
